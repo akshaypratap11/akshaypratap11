@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo] <img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/80f7730a-cd71-4101-b1cf-9973bb262baf" />
+<img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/80f7730a-cd71-4101-b1cf-9973bb262baf" />
 
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
