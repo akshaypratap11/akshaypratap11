@@ -1,31 +1,31 @@
 <img width="2200" height="700" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/80f7730a-cd71-4101-b1cf-9973bb262baf" />
-<h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshaypratap11](https://github.com/akshaypratap11)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Akshay%20Pratap%20Singh&text2=💖%20A%20Passionate%20Coder%20and%20Developer%20&width=900&height=400)
 
-- 📝 I regularly write articles on [www.youtube.com/@akshayframe](www.youtube.com/@akshayframe)
+
+
+
+
+- 🌱 I’m currently learning **Reactjs & Nextjs**
+
+- 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
 - 📫 How to reach me **akshaypratap262@gmail.com**
 
-- 📄 Know about my leetcode profile [https://leetcode.com/u/Akshaypratap1/](https://leetcode.com/u/Akshaypratap1/)
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/akshaypratap11" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://linkedin.com/in/Akshaypratap1" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/profile.php?id=100065116112137" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/akshay.pratap1" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.youtube.com/c/akshayframe" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.hackerrank.com/akshaypratap262" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://www.leetcode.com/akshaypratap1" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshaypratap1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaypratap1" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100065116112137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100065116112137" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay.pratap1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay.pratap1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akshayframe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshayframe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshaypratap262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshaypratap262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshaypratap1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaypratap1" height="30" width="40" /></a>
-</p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/css/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.figma.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/figma/figma-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3.org/html/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.linux.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.oracle.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg alt="android" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypratap11&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypratap11&show_icons=true&locale=en" alt="" /></p>
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=akshaypratap11&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypratap11&" alt="akshaypratap11" /></p>
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypratap11&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypratap11&theme=dark&hide_border=false" alt="profile-radme-generator" />
+
 
